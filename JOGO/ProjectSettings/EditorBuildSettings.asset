@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ed58cb0c51d0cc649b80249a55d331ea
+  - enabled: 1
+    path: Assets/Scenes/BossFightZ.unity
+    guid: 13f42f0b7459e1d4c8101c436ce4842d
+  - enabled: 1
+    path: Assets/Scenes/Jogo.unity
+    guid: 1fad88fb1ea33fd499d9cce53716a99e
+  - enabled: 1
+    path: Assets/Scenes/GameOverF2.unity
+    guid: 7b4adfd339bfdad4e84744e55baa84d7
+  - enabled: 1
+    path: Assets/Scenes/GabineteOpen.unity
+    guid: 7125054dff2e5ae46af67231652751be
+  - enabled: 1
+    path: Assets/jogo4.unity
+    guid: db1f666589ff70548a26b9d1f1683c7d
+  - enabled: 1
+    path: Assets/GameOverF.unity
+    guid: fd7232697a7c7314f9de0e20979a0f5b
+  - enabled: 1
+    path: Assets/Scenes/FightGameOver.unity
+    guid: fb5b9c1f704f94e4998919a91b1d1fa6
+  - enabled: 1
+    path: Assets/Scenes/BossFightZ2.unity
+    guid: 406188cc4304fee458b8c8e6b6dd9617
+  - enabled: 1
+    path: Assets/Scenes/CasaFim.unity
+    guid: 4205a29459d66274eaca33906f28752b
+  - enabled: 1
+    path: Assets/Scenes/FinalStage.unity
+    guid: b9bf35870c451f245adcd04ad7289596
+  - enabled: 1
+    path: Assets/Scenes/CasaKJE.unity
+    guid: 61bed0aec4a66d342a2e9883d8a63448
+  - enabled: 1
+    path: Assets/Scenes/JogoKJE.unity
+    guid: a3d81fc53bc8aec47996637b47af5592
+  - enabled: 1
+    path: Assets/Scenes/Jogo_main.unity
+    guid: 3d4c368109ccf674a9833886b288cdec
+  - enabled: 1
+    path: Assets/Scenes/BossFight.unity
+    guid: b5705080d13fade41b523830c2afbc1d
+  - enabled: 1
+    path: Assets/Scenes/userdata_change 1.unity
+    guid: 5bbb293d0837a6745b5a210f87d1fccd
+  - enabled: 1
+    path: Assets/Scenes/Mercado3.unity
+    guid: 4a7addb57ad43d047ae1abe78060dbaf
+  - enabled: 1
+    path: Assets/Scenes/GameOverFinal.unity
+    guid: cac3586d5882d274ca37135c14f10d67
+  - enabled: 1
+    path: Assets/Scenes/Forgot_pass.unity
+    guid: dffbfe447857ad648abee125a9b06d38
+  - enabled: 1
+    path: Assets/Scenes/jogo42.unity
+    guid: 0a376eb8f1cbf524489d9a664aa422ed
+  - enabled: 1
+    path: Assets/Scenes/sala_gabinete3.unity
+    guid: a310721e14e0015459d2d6a9e8e12374
+  - enabled: 1
+    path: Assets/Scenes/GameOver2.unity
+    guid: 3513d84739a554c42bd5ea721ed8c429
+  - enabled: 1
+    path: Assets/Scenes/gabineteFinal.unity
+    guid: cd7bb0da2b318db4390f7aec53751152
+  - enabled: 1
+    path: Assets/Scenes/userdata_change.unity
+    guid: 25b0ecf2b386ca841b96aea99b7442b6
+  - enabled: 1
+    path: Assets/Scenes/Jogo5.unity
+    guid: 9b5aa2a6fd223ea41845629cf149cb71
+  - enabled: 1
+    path: Assets/Scenes/Pass_Change.unity
+    guid: 4b7c26a519c4a1e4391c953db809adaa
+  - enabled: 1
+    path: Assets/Scenes/Escola.unity
+    guid: b6a692bf68d19f143bef79a2eb22694f
+  - enabled: 1
+    path: Assets/Scenes/GameOver4.unity
+    guid: 740b5cdaf509e064f88a70ea322e7236
+  - enabled: 1
+    path: Assets/Scenes/GameOver3.unity
+    guid: 695b849e784026a45bd1352c863ab618
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 058f4883b57757a4aa42f7094cbc689b
+  - enabled: 1
+    path: Assets/Scenes/Escola2.unity
+    guid: fd1983af29a73594d97764968b101a77
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5c19dee8b81a6484fb5587d75ab7159d
+  - enabled: 1
+    path: Assets/Scenes/Regist.unity
+    guid: e2ff5b046bc1cd24b9e0a66b1dc46af9
+  - enabled: 1
+    path: Assets/Scenes/VitimFight.unity
+    guid: c3449559f061e8f4ab177de3710ea3ba
+  - enabled: 1
+    path: Assets/Scenes/sala_gabinete2.unity
+    guid: 9131aed13652dfe41926ab56104acb78
+  - enabled: 1
+    path: Assets/Scenes/Casa.unity
+    guid: cc228fb9a3b68a540afd122428025f32
+  - enabled: 1
+    path: Assets/Scenes/BullysFight.unity
+    guid: a285b1ddefea4d644935c94ebd8e98b4
+  - enabled: 1
+    path: Assets/Scenes/CasaHST.unity
+    guid: eed8a29ed96a2e04fb5467e2ba05a8b1
+  - enabled: 1
+    path: Assets/Scenes/Quarto.unity
+    guid: 862a74d4e2aeb59449add73d72d3e6de
+  - enabled: 1
+    path: Assets/Scenes/Jogo3.unity
+    guid: e6a01fad180cfb6488d41f2adac028b3
+  - enabled: 1
+    path: Assets/Scenes/Mercado2.unity
+    guid: bc4af4ca361b14241b63fe40ef0ea0de
+  - enabled: 1
+    path: Assets/Scenes/Mercado.unity
+    guid: 81c7a64ee7a43b74bb68d04a8c09093e
+  - enabled: 1
+    path: Assets/Scenes/Casa2.unity
+    guid: 153b4fb58c38c504fbba6e0daaecf8a0
+  - enabled: 1
+    path: Assets/Scenes/Menu_compra.unity
+    guid: 59ec03636b2a9c946bac8bac7b5eef9b
+  - enabled: 1
+    path: Assets/Scenes/Chat3.unity
+    guid: b4a2b22ccb6242344982f7919002351b
+  - enabled: 1
+    path: Assets/Scenes/Chat2.unity
+    guid: 6287e582caa4e8b4e8ea6248bea6269a
+  - enabled: 1
+    path: Assets/Scenes/Jogo2.unity
+    guid: 9819fc602df0b984e965ac53326014f0
+  - enabled: 1
+    path: Assets/Scenes/sala_gabinete.unity
+    guid: fddf500ad4c5c364d9767494c9557487
+  - enabled: 1
+    path: Assets/Scenes/Quarto3.unity
+    guid: 84efe445547e2b34dbba954636f4af4e
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: 2932c830b3b6c6c48942c972b5e68091
+  - enabled: 1
+    path: Assets/Scenes/gabinete.unity
+    guid: 0c9f899a3f9c1274da4aa44dcf900a62
+  - enabled: 1
+    path: Assets/Scenes/GameOver5.unity
+    guid: 682bd097ea274bb4b88c6029abb26503
+  - enabled: 1
+    path: Assets/Scenes/GameOver1.unity
+    guid: cba62a1883748dc4bba667bd1d3a0e4d
+  - enabled: 1
+    path: Assets/Scenes/Quarto2.unity
+    guid: 0a5837d543d36b545a50a1a45e4eb60a
+  - enabled: 1
+    path: Assets/Scenes/Chat.unity
+    guid: 2fd674691eb47b1409a79692257949f6
+  m_configObjects: {}
